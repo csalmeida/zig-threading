@@ -1,0 +1,41 @@
+# Zig
+zig-out/
+zig-cache/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Build artifacts
+build/
+dist/
+target/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+
+# System files
+.AppleDouble
+.LSOverride
